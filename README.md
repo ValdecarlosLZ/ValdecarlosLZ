@@ -18,10 +18,9 @@
 <div align="center">
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="/html" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.svg">
-  <img align="center" alt="/CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-   <img align="center" alt="/C#" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-     
+  <img align="center" alt="html.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/2/html%205.svg">
+  <img align="center" alt="CSS.svg" height="60" width="50" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/6/css.svg">
+   <img align="center" alt="java.svg" height="60" width="50" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/1/java.svg">
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
