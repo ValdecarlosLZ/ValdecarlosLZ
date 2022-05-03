@@ -20,6 +20,7 @@
 
   <img align="center" alt="/html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
   <img align="center" alt="/CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
+    
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
