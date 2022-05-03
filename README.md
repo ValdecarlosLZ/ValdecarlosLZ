@@ -32,9 +32,9 @@
 
    <p>
 
-   <a href="#" target="_blank"/><img src="https://gogeticons.com/frontend/web/icons/data/8/4/0/7/9/instagram.svg" target="_blank" height="40" width="30" ></a>	  
-   <a href = "lzxbrgamer2@gmail.com"><img src="https://gogeticons.com/frontend/web/icons/data/3/4/0/8/3/email.svg" target=" _blank" height="40" width="30"></a>
-   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank"><img src="https://gogeticons.com/frontend/web/icons/data/4/7/0/3/9/linkedin.svg" target="_blank" height="40" width="30"></a>
+   <a href="#" target="_blank"/><img src="https://gogeticons.com/frontend/web/icons/data/8/4/0/7/9/instagram.svg" target="_blank" height="40" width="30" aling="right"></a>	  
+   <a href = "lzxbrgamer2@gmail.com"><img src="https://gogeticons.com/frontend/web/icons/data/3/4/0/8/3/email.svg" target=" _blank" height="40" width="30" aling="right"></a>
+   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank" aling="right"><img src="https://gogeticons.com/frontend/web/icons/data/4/7/0/3/9/linkedin.svg" target="_blank" height="40" width="30"></a>
 
 
    </p>
