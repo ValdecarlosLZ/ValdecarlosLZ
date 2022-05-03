@@ -30,7 +30,7 @@
 <div align="center">
    <div style="display: inline_block">
 
-   <p align="center">
+   <p>
 
    <a href="#" target="_blank"/><img src="https://gogeticons.com/frontend/web/icons/data/8/4/0/7/9/instagram.svg" target="_blank" height="40" width="30" ></a>	  
    <a href = "lzxbrgamer2@gmail.com"><img src="https://gogeticons.com/frontend/web/icons/data/3/4/0/8/3/email.svg" target=" _blank" height="40" width="30"></a>
