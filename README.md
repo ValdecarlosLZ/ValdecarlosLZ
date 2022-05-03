@@ -18,9 +18,9 @@
 <div align="center">
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="html.svg" height="40" width="30" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/2/html%205.svg">
-  <img align="center" alt="CSS.svg" height="40" width="30" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/6/css.svg">
-   <img align="center" alt="java.svg" height="40" width="30" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/1/java.svg">
+  <img align="center" alt="html.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/2/html%205.svg">
+  <img align="center" alt="CSS.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/6/css.svg">
+   <img align="center" alt="java.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/1/java.svg">
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
@@ -32,9 +32,9 @@
 
    <p align="center">
 
-   <a href="#" target="_blank"/><img src="https://gogeticons.com/frontend/web/icons/data/8/4/0/7/9/instagram.svg" target="_blank" height="60" width="50" ></a>	  
-   <a href = "lzxbrgamer2@gmail.com"><img src="https://gogeticons.com/frontend/web/icons/data/3/4/0/8/3/email.svg" target=" _blank" height="50" width="60"></a>
-   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank"><img src="https://gogeticons.com/frontend/web/icons/data/4/7/0/3/9/linkedin.svg" target="_blank" height="60" width="60"></a>
+   <a href="#" target="_blank"/><img src="https://gogeticons.com/frontend/web/icons/data/8/4/0/7/9/instagram.svg" target="_blank" height="40" width="30" ></a>	  
+   <a href = "lzxbrgamer2@gmail.com"><img src="https://gogeticons.com/frontend/web/icons/data/3/4/0/8/3/email.svg" target=" _blank" height="40" width="30"></a>
+   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank"><img src="https://gogeticons.com/frontend/web/icons/data/4/7/0/3/9/linkedin.svg" target="_blank" height="40" width="30"></a>
 
 
    </p>
