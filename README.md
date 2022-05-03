@@ -18,12 +18,9 @@
 <div align="center">
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="Cauã-html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-  <img align="center" alt="Cauã-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-  
-  <img align="center" alt="Cauã-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
-  <img align="center" alt="Jake" height="50" width="60" src="https://img.icons8.com/doodle/344/jake.svg">
-  <img align="right" src="" height="200" width="350">
+  <img align="center" alt="/html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
+  <img align="center" alt="/CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
+  <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
 </div>  
