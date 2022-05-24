@@ -2,7 +2,7 @@
 
 
 - ✉ Meu email: lzxbrgamer2@gmail.com
-- 👨‍💻 Estudando C++,C#,HTML,CSS e JAVA
+- 👨‍💻 Estudando C++,C#,HTML,CSS,JAVA e Javascript
 
 ##
 
