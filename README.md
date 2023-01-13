@@ -21,7 +21,7 @@
   <img align="center" alt="html.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/2/html%205.svg">
   <img align="center" alt="CSS.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/6/css.svg">
    <img align="center" alt="java.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/1/java.svg">
-  <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
+  <img align="right" src="[https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif](https://tenor.com/pt-BR/view/pain-gif-26552865)" height="200" width="350">
 
 </div>
 </div>  
