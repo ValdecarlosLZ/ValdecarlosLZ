@@ -1,4 +1,4 @@
-##  Salve curiosos, meu nome é Valdecarlos e Bem Vindo ao meus Caos.
+##  Salve curiosos, meu nome é Valdecarlos e Bem Vindo ao meu Caos.
 
 
 - ✉ Meu email: lzxbrgamer2@gmail.com
