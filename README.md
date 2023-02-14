@@ -20,7 +20,7 @@
 
   <img align="center" alt="html.svg" height="50" width="60" src="https://icons8.com.br/icon/20909/html-5">
   <img align="center" alt="CSS.svg" height="50" width="60" src="https://icons8.com.br/icon/21278/css3">
-   <img align="center" alt="javascript.png" height="50" width="60" src="https://icons8.com.br/icon/106036/logotipo-javascript">
+   <img align="center" alt="javascript.svg" height="50" width="60" src="https://icons8.com.br/icon/106036/logotipo-javascript">
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
@@ -32,9 +32,9 @@
 
    <p>
 
-   <a href="#" target="_blank"/><img src="https://gogeticons.com/frontend/web/icons/data/8/4/0/7/9/instagram.svg" target="_blank" height="40" width="30" aling="right"></a>	  
-   <a href = "lzxbrgamer2@gmail.com"><img src="https://gogeticons.com/frontend/web/icons/data/3/4/0/8/3/email.svg" target=" _blank" height="40" width="30" aling="right"></a>
-   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank" aling="right"><img src="https://gogeticons.com/frontend/web/icons/data/4/7/0/3/9/linkedin.svg" target="_blank" height="40" width="30"></a>
+   <a href="#" target="_blank"/><img src="https://icons8.com.br/icon/43625/instagram" target="_blank" height="40" width="30" aling="right"></a>	  
+   <a href = "lzxbrgamer2@gmail.com"><img src="https://icons8.com.br/icon/P7UIlhbpWzZm/gmail" target=" _blank" height="40" width="30" aling="right"></a>
+   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank" aling="right"><img src="https://icons8.com.br/icon/xuvGCOXi8Wyg/linkedin" target="_blank" height="40" width="30"></a>
 
 
    </p>
