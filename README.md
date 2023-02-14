@@ -18,9 +18,9 @@
 <div align="center">
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="html.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/2/html%205.svg">
-  <img align="center" alt="CSS.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/6/css.svg">
-   <img align="center" alt="java.svg" height="50" width="60" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/1/java.svg">
+  <img align="center" alt="html.png" height="50" width="60" src="https://www.flaticon.com/br/icone-gratis/arquivo-html_2786969?term=html&page=1&position=8&origin=search&related_id=2786969">
+  <img align="center" alt="CSS.png" height="50" width="60" src="https://www.flaticon.com/br/icone-gratis/arquivo-css_2786979?term=css&page=1&position=6&origin=search&related_id=2786979">
+   <img align="center" alt="java.png" height="50" width="60" src="https://www.flaticon.com/br/icone-gratis/script-java_288877?term=javascript&page=1&position=22&origin=search&related_id=288877">
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
