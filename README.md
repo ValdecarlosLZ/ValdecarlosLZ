@@ -32,9 +32,9 @@
 
    <p>
 
-   <a href="#" target="_blank"/><img src="https://icons8.com.br/icon/43625/instagram" target="_blank" height="40" width="30" aling="right"></a>	  
-   <a href = "lzxbrgamer2@gmail.com"><img src="https://icons8.com.br/icon/P7UIlhbpWzZm/gmail" target=" _blank" height="40" width="30" aling="right"></a>
-   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank" aling="right"><img src="https://icons8.com.br/icon/xuvGCOXi8Wyg/linkedin" target="_blank" height="40" width="30"></a>
+   <a href="#" target="_blank"/><img src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/icons8-instagram-64.png?token=GHSAT0AAAAAACACSKDKLSXOHEUC4VZA62RQZAR7MSQ" target="_blank" height="40" width="30" aling="right"></a>	  
+   <a href = "lzxbrgamer2@gmail.com"><img src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/icons8-gmail-48.png?token=GHSAT0AAAAAACACSKDKONZJUNVOCCPHKS5AZAR7NHA" target=" _blank" height="40" width="30" aling="right"></a>
+   <a href="https://www.linkedin.com/in/valdecarlos-henrique-garcia-dos-santos-36403621a/" target="_blank" aling="right"><img src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/icons8-linkedin-48.png?token=GHSAT0AAAAAACACSKDLQKYBL2EV77YE4AD6ZAR7NVA" target="_blank" height="40" width="30"></a>
 
 
    </p>
