@@ -18,9 +18,9 @@
 <div align="center">
   <div style="display: inline_block"><br>
 
-  <img align="center" alt="Html logo.png" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/Html%20logo.png?token=GHSAT0AAAAAACACSKDLTRXFIZRFOJR3M5WGZAR7F3Q">
-  <img align="center" alt="icons8-css3-48.png" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/icons8-css3-48.png?token=GHSAT0AAAAAACACSKDLBDZUTTGV3CL3DYCWZAR7JSA">
-   <img align="center" alt="logo-javascript-icon-256.png" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/logo-javascript-icon-256.png?token=GHSAT0AAAAAACACSKDLRLZTPPHQIVMNYTY2ZAR7ISQ">
+  <img align="center" alt="Html logo.png" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/Html%20logo.png?token=GHSAT0AAAAAACACSKDL4SRB5RBKTB7HM4NKZAR7Q4A">
+  <img align="center" alt="icons8-css3-48.png" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/icons8-css3-48.png?token=GHSAT0AAAAAACACSKDK5HLJUUZ4XQSIYI5GZAR7R7A">
+   <img align="center" alt="logo-javascript-icon-256.png" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/logo-javascript-icon-256.png?token=GHSAT0AAAAAACACSKDLSH4XSLKTHLOSQTEQZAR7SLA">
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
