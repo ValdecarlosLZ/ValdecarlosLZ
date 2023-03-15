@@ -20,7 +20,7 @@
 
   <img align="center" alt="html.svg" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/Html%20logo.png?token=GHSAT0AAAAAACACSKDLTRXFIZRFOJR3M5WGZAR7F3Q">
   <img align="center" alt="CSS.svg" height="50" width="60" src="https://icons8.com.br/icon/21278/css3">
-   <img align="center" alt="javascript.svg" height="50" width="60" src="https://icons8.com.br/icon/106036/logotipo-javascript">
+   <img align="center" alt="javascript.svg" height="50" width="60" src="https://raw.githubusercontent.com/ValdecarlosLZ/Imagens/main/logo-javascript-icon-256.png?token=GHSAT0AAAAAACACSKDLRLZTPPHQIVMNYTY2ZAR7ISQ">
   <img align="right" src="https://c.tenor.com/yC8bymA-_2IAAAAC/meliodas-seven-deadly-sins.gif" height="200" width="350">
 
 </div>
