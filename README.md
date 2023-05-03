@@ -1,3 +1,13 @@
+
+<style>
+    *{
+        background: linear-gradient(to right,rgba(0,0,0,80%),rgba(56,12,61,100%), rgba(151,0,168,70%));
+    }
+</style>
+
+
+
+
 ##  Salve curiosos, meu nome é Valdecarlos e Bem Vindo ao meu Caos.
 
 
