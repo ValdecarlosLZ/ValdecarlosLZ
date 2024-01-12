@@ -1,7 +1,7 @@
 ##  Salve curiosos, meu nome é Valdecarlos e Bem Vindos ao meu Caos.
 
 
-- ✉ Meu email: lzxbrgamer2@gmail.com
+- ✉ Meu email: analista.valdecarlos@gmail.com
 - 👨‍💻 Estudando PHP,HTML,CSS,JAVA e Javascript
 
 ##
